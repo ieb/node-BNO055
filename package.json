@@ -27,6 +27,6 @@
   "homepage": "https://github.com/landlessness/node-BNO055#readme",
   "dependencies": {
     "async": "^1.4.2",
-    "i2c": "*"
+    "i2c": "github:ieb/i2c"
   }
 }
